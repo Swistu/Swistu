@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Szymon Świst
+- 👀 I’m interested in programming, especially in JavaScript
+- 🌱 I’m currently learning Node.js and Discord.js
+- 💞️ I’m looking to collaborate on any JavaScript related project
+- 📫 How to reach me? Email szymonswist97@gmail.com
